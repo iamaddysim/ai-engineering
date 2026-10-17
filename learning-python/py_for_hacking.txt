@@ -1,0 +1,28 @@
+For learning python to be used in Ethical Hacking or any kind of hacking I need to go through the following series of steps:
+
+1- Read the AUTOMATE THE BORING STUFF WITH PYTHON by AL SWEIGART
+
+2- Do the projects mentioned in the pdf given below-->
+	https://www.youtube.com/redirect?event=comments&redir_token=QUFFLUhqbjBqVkg3TmZVR0tvSXFnV29GQjhkVDE4QmppUXxBQ3Jtc0trTUdYQ1NZdlNxZkdRRFRNTlBTZ0dSdmJpTE5hMmVfQWwwamx1dFI4b3M5QUV2bmNmVXY2UjI2UkoxOThPRmtOX3FTV3l4S2VwZkw1WXZwNEdxdnBZMzZHcjlrdkU0VGQzckk0ZnpacHBLY1pRbHY1cw&q=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1-xxk7Ow7svu0djLgzoqQ7YPuiuOQVp2C%2Fview%3Fusp%3Dsharing
+
+3- Learn some python libraries that actually worth it for hacking and networking like,
+	-Requests 
+	-Beautiful Soup 
+	-Scrapy
+	-Paramiko
+	-SubProcess
+	-Socket
+	-Multiprocessing
+	-Re 
+
+4- To not to be distracted and waste my precious time, I won't learn these things or maybe after gaining some experiences I will learn these... -->
+	-Django
+	-Flask
+
+5- Practice on real Targets 
+
+6- Read and modify Real Exploit Code
+
+7- Join Security Coding Communities 
+
+

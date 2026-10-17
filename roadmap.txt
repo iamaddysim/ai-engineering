@@ -1,0 +1,19 @@
+Level 1(FUNDAMENTALS):
+    1-Python 
+    2-Sql
+    3-API
+
+Level 2(HARNESSING AI MODELS):
+    1-Context Engineering
+    2-AI APIs
+    3-Models(hugging-face)
+
+Level 3(SHIPPING): 
+    1-RAG 
+    2-Agents 
+    3-Deployment 
+    4-Evaluation and Governance
+
+Level 4(LANDING THE OFFER):
+    1-Projects 
+    2-Get Visible
